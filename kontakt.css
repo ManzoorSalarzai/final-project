@@ -1,0 +1,22 @@
+body {
+  background-color: green;
+  margin-left: 40px;
+  margin-top: 40px;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+div  {
+    color: red;
+    font-size: x-large;
+    margin: 40px;
+    float: left;
+  } 
+
+  p {
+    font-size: xx-large;
+    margin: 40px;
+  }
